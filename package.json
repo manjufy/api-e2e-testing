@@ -26,7 +26,7 @@
     "express-session": "^1.15.6",
     "jsonwebtoken": "^8.5.1",
     "jwt-simple": "^0.5.1",
-    "knex": "^0.15.2",
+    "knex": "^2.4.0",
     "mysql2": "^1.6.5",
     "passport": "^0.4.0",
     "passport-http-bearer": "^1.0.1",
